@@ -1,4 +1,4 @@
-# Heartbeat Sensor
+# Handheld mmWave Radar Human Detector
 
 A handheld radar device that detects nearby people and shows them on a military-style display, inspired by the heartbeat sensor from *Call of Duty*.
 
